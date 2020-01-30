@@ -1,2 +1,6 @@
-# guides
-Various guides about IT
+# Various guides about IT
+
+* Install
+  * Maven
+    * [Ubuntu](install/maven/ubuntu.md)
+
